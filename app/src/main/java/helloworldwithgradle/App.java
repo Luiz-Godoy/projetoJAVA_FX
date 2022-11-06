@@ -25,9 +25,12 @@ public class App extends Application {
 }
 
 /*
-Coesão e Acoplamento talvez sejam as características mais importantes de qualquer sistema.
+Coesão e Acoplamento são princípios antigos e muito utilizados dentro da engenharia de software.
 
-Sendo a "Coesão" um conceito de grau onde algo como uma classe ou método, po exemplo, deve ter apenas uma única responsabilidade e realizá-la de maneira satisfatória.
+Sendo a "Coesão" um conceito para determinada classe, onde esta deve seguir uma única tarefa/atividade/processo, de maneira individual, satisfatória e não deve assumir
+responsabilidades que não são suas.
 
-Também apresentando o "Acoplamento", que possui um contexto onde, esse "algo" leva uma base de que depende de terceiros para seu funcionamento, similar a algo como "A união faz a força".
+O "Acoplamento" é a dependência entre as classes para funcionarem, mas em excesso pode trazer muitos problemas, sendo este um cenário similar ao não coeso.
+
+Ref: https://www.devmedia.com.br/entendendo-coesao-e-acoplamento/18538
 */
